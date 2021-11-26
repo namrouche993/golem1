@@ -11,3 +11,5 @@ $run_dev.*
 ^Meta$
 ^Dockerfile$
 ^\.dockerignore$
+^\.github$
+^\.travis\.yml$
