@@ -1,0 +1,31 @@
+Package: golem1
+Title: HOUSINGDZ
+Version: 0.0.0.9000
+Authors@R: person('Mohamed Nadib', 'AMROUCHE', email = 'namrouche993@gmail.com', role = c('cre', 'aut'))
+Description: Une app pour le pilotage des donnees
+License: MIT + file LICENSE
+Imports: 
+    attempt,
+    config (>= 0.3.1),
+    DT,
+    glue,
+    golem (>= 0.3.1),
+    highcharter,
+    htmltools,
+    processx,
+    reactable,
+    shiny (>= 1.6.0),
+    thinkr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Suggests: 
+    rmarkdown,
+    knitr,
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Language: en-US
+VignetteBuilder: knitr
+URL: https://github.com/namrouche993/first_golem
+BugReports: https://github.com/namrouche993/first_golem/issues
