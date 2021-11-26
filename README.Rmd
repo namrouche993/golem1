@@ -18,6 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/namrouche993/golem1/workflows/R-CMD-check/badge.svg)](https://github.com/namrouche993/golem1/actions)
 [![Travis build status](https://travis-ci.com/namrouche993/golem1.svg?branch=master)](https://travis-ci.com/namrouche993/golem1)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/namrouche993/golem1?branch=master&svg=true)](https://ci.appveyor.com/project/namrouche993/golem1)
 <!-- badges: end -->
 
 The goal of golem1 is to ...

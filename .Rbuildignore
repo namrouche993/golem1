@@ -13,3 +13,4 @@ $run_dev.*
 ^\.dockerignore$
 ^\.github$
 ^\.travis\.yml$
+^appveyor\.yml$
